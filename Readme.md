@@ -9,7 +9,7 @@ Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo
 | Hotel                     | http://analytics.deacero.com/Api/GetApi/ApiHotelFull/api_key      |
 
 
-Nota: El api_key válido se proporciona por correo. En caso de esar interesado en aplicar al test puede enviar correo a <yacosta@deacero.com>
+Nota: El api_key válido se proporciona por correo. En caso de estar interesado en aplicar al test puede enviar correo a <yacosta@deacero.com>
 
 Supongamos que fuimos contratados como consultores para responder esta pregunta clave: ¿cuándo un cliente cancelará o no llegará a su reservación?
 
