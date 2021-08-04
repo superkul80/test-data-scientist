@@ -6,7 +6,7 @@ Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo
 
 | Dataset                   | Url                                                               |
 | ------------------------- | ----------------------------------------------------------------- |
-| Hotel                     | http://analytics.deacero.com/Api/GetApi/ApiHotelFull/api_key      |
+| Hotel                     | https://analytics.deacero.com/api/expuesta/sqlexp/api_key         |
 
 
 Nota: El api_key válido se proporciona por correo. En caso de estar interesado en aplicar al test puede enviar correo a <yacosta@deacero.com>
