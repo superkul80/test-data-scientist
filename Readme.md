@@ -51,7 +51,7 @@ Antes de intentar hacer predicciones asegúrense de hacer una correcta limpieza 
 
 Instrucciones: 
 
-1.	Responde las preguntas planteadas en la descripción del problema, utilizando R, Python o ambas.
+1.	Responde las preguntas planteadas en la descripción del problema, utilizando Python.
 2.	Seguir todos los pasos para la realización del modelo predictivo y análisis correspondiente. 
 3.	Predecir si reservación será cancelada en base de la información de cancelaciones pasadas. La columna en cuestión es "is_canceled" (1 es sí, 0 es no). 
 4.	Hacer una presentación ejecutiva de 5 slides en los que presenten sus resultados a una audiencia de negocio. Esta audiencia no sabe nada de algoritmos, ni de modelos, solamente quieren resolver el problema de cancelaciones. Pueden usar PPT o subir un PDF con sus láminas.
