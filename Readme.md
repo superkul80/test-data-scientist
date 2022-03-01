@@ -1,4 +1,4 @@
-# Ejercicio práctico para Data Scientist en Deacero.
+# Test para Data Scientist Deacero.
 
 Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo.
 
